@@ -17,6 +17,8 @@ menu_settings:
       url: '/about'
     - title: 'Contact'
       url: '/contact'
+    - title: 'CV'
+      url: '/_site/MichaelDarflerResumeCV.html'
 
 grid_settings:
   overlay_opacity: 0.8
