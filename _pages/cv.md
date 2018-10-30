@@ -1,8 +1,1042 @@
 ---
-title: Thank you
-subtitle: Your message was sent successfully.
-description: Index is a minimal, fixed sidebar grid portfolio Jekyll theme.
-featured_image: /images/demo/demo-landscape.jpg
+title: Curriculum Vitae
 ---
+[Download]({{site.baseurl}}/images/michael-darfler-cv.pdf)
+<html>
 
-![](/images/demo/about.jpg)
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+  <style type="text/css">
+    @import url('https://themes.googleusercontent.com/fonts/css?kit=BdDlBMcfJOmPm8yWsG_uVlPFkExb3B4gQN_SKnHNTFhQxO8QHFW3iV18DK_C5uFe96xlbbE5D7Gw2o7jubnkMA');
+
+    .lst-kix_41d57ev9ncr0-0>li:before {
+      content: "\0025cf  "
+    }
+
+    .lst-kix_yn4oegv9ur96-1>li:before {
+      content: "\0025cb  "
+    }
+
+    .lst-kix_yn4oegv9ur96-2>li:before {
+      content: "\0025a0  "
+    }
+
+    .lst-kix_41d57ev9ncr0-1>li:before {
+      content: "\0025cb  "
+    }
+
+    .lst-kix_41d57ev9ncr0-2>li:before {
+      content: "\0025a0  "
+    }
+
+    .lst-kix_yn4oegv9ur96-4>li:before {
+      content: "\0025cb  "
+    }
+
+    .lst-kix_yn4oegv9ur96-3>li:before {
+      content: "\0025cf  "
+    }
+
+    .lst-kix_41d57ev9ncr0-5>li:before {
+      content: "\0025a0  "
+    }
+
+    .lst-kix_41d57ev9ncr0-6>li:before {
+      content: "\0025cf  "
+    }
+
+    ul.lst-kix_468pdt61srgl-8 {
+      list-style-type: none
+    }
+
+    .lst-kix_41d57ev9ncr0-3>li:before {
+      content: "\0025cf  "
+    }
+
+    .lst-kix_41d57ev9ncr0-4>li:before {
+      content: "\0025cb  "
+    }
+
+    .lst-kix_41d57ev9ncr0-7>li:before {
+      content: "\0025cb  "
+    }
+
+    .lst-kix_41d57ev9ncr0-8>li:before {
+      content: "\0025a0  "
+    }
+
+    ul.lst-kix_yn4oegv9ur96-2 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_yn4oegv9ur96-3 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_yn4oegv9ur96-4 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_yn4oegv9ur96-5 {
+      list-style-type: none
+    }
+
+    .lst-kix_yn4oegv9ur96-0>li:before {
+      content: "\0025cf  "
+    }
+
+    ul.lst-kix_yn4oegv9ur96-6 {
+      list-style-type: none
+    }
+
+    .lst-kix_468pdt61srgl-7>li:before {
+      content: "\0025cb  "
+    }
+
+    ul.lst-kix_yn4oegv9ur96-7 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_yn4oegv9ur96-8 {
+      list-style-type: none
+    }
+
+    .lst-kix_468pdt61srgl-8>li:before {
+      content: "\0025a0  "
+    }
+
+    ul.lst-kix_yn4oegv9ur96-0 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_yn4oegv9ur96-1 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_468pdt61srgl-2 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_468pdt61srgl-3 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_468pdt61srgl-0 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_468pdt61srgl-1 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_468pdt61srgl-6 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_468pdt61srgl-7 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_468pdt61srgl-4 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_468pdt61srgl-5 {
+      list-style-type: none
+    }
+
+    .lst-kix_vtvzjcmeakoy-7>li:before {
+      content: "\0025cb  "
+    }
+
+    .lst-kix_vtvzjcmeakoy-5>li:before {
+      content: "\0025a0  "
+    }
+
+    .lst-kix_2yqsx517wgmh-8>li:before {
+      content: "\0025a0  "
+    }
+
+    .lst-kix_vtvzjcmeakoy-6>li:before {
+      content: "\0025cf  "
+    }
+
+    .lst-kix_vtvzjcmeakoy-3>li:before {
+      content: "\0025cf  "
+    }
+
+    .lst-kix_2yqsx517wgmh-6>li:before {
+      content: "\0025cf  "
+    }
+
+    .lst-kix_2yqsx517wgmh-7>li:before {
+      content: "\0025cb  "
+    }
+
+    .lst-kix_2yqsx517wgmh-5>li:before {
+      content: "\0025a0  "
+    }
+
+    .lst-kix_vtvzjcmeakoy-4>li:before {
+      content: "\0025cb  "
+    }
+
+    .lst-kix_vtvzjcmeakoy-1>li:before {
+      content: "\0025cb  "
+    }
+
+    .lst-kix_468pdt61srgl-6>li:before {
+      content: "\0025cf  "
+    }
+
+    .lst-kix_vtvzjcmeakoy-2>li:before {
+      content: "\0025a0  "
+    }
+
+    .lst-kix_468pdt61srgl-5>li:before {
+      content: "\0025a0  "
+    }
+
+    ul.lst-kix_ppj56ij3mx6b-0 {
+      list-style-type: none
+    }
+
+    .lst-kix_468pdt61srgl-3>li:before {
+      content: "\0025cf  "
+    }
+
+    ul.lst-kix_ppj56ij3mx6b-2 {
+      list-style-type: none
+    }
+
+    .lst-kix_468pdt61srgl-4>li:before {
+      content: "\0025cb  "
+    }
+
+    .lst-kix_vtvzjcmeakoy-0>li:before {
+      content: "\0025cf  "
+    }
+
+    ul.lst-kix_ppj56ij3mx6b-1 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_2yqsx517wgmh-7 {
+      list-style-type: none
+    }
+
+    .lst-kix_468pdt61srgl-1>li:before {
+      content: "\0025cb  "
+    }
+
+    ul.lst-kix_41d57ev9ncr0-0 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_2yqsx517wgmh-6 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_41d57ev9ncr0-1 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_41d57ev9ncr0-2 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_2yqsx517wgmh-8 {
+      list-style-type: none
+    }
+
+    .lst-kix_7agsv1rzrh3a-6>li:before {
+      content: "\0025cf  "
+    }
+
+    .lst-kix_7agsv1rzrh3a-8>li:before {
+      content: "\0025a0  "
+    }
+
+    ul.lst-kix_41d57ev9ncr0-3 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_2yqsx517wgmh-3 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_41d57ev9ncr0-4 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_2yqsx517wgmh-2 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_41d57ev9ncr0-5 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_2yqsx517wgmh-5 {
+      list-style-type: none
+    }
+
+    .lst-kix_468pdt61srgl-2>li:before {
+      content: "\0025a0  "
+    }
+
+    ul.lst-kix_41d57ev9ncr0-6 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_2yqsx517wgmh-4 {
+      list-style-type: none
+    }
+
+    .lst-kix_7agsv1rzrh3a-7>li:before {
+      content: "\0025cb  "
+    }
+
+    ul.lst-kix_41d57ev9ncr0-7 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_41d57ev9ncr0-8 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_2yqsx517wgmh-1 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_2yqsx517wgmh-0 {
+      list-style-type: none
+    }
+
+    .lst-kix_7agsv1rzrh3a-2>li:before {
+      content: "\0025a0  "
+    }
+
+    .lst-kix_468pdt61srgl-0>li:before {
+      content: "\0025cf  "
+    }
+
+    .lst-kix_7agsv1rzrh3a-1>li:before {
+      content: "\0025cb  "
+    }
+
+    .lst-kix_2yqsx517wgmh-2>li:before {
+      content: "\0025a0  "
+    }
+
+    .lst-kix_2yqsx517wgmh-3>li:before {
+      content: "\0025cf  "
+    }
+
+    .lst-kix_2yqsx517wgmh-0>li:before {
+      content: "\0025cf  "
+    }
+
+    .lst-kix_2yqsx517wgmh-4>li:before {
+      content: "\0025cb  "
+    }
+
+    .lst-kix_7agsv1rzrh3a-3>li:before {
+      content: "\0025cf  "
+    }
+
+    .lst-kix_7agsv1rzrh3a-4>li:before {
+      content: "\0025cb  "
+    }
+
+    .lst-kix_2yqsx517wgmh-1>li:before {
+      content: "\0025cb  "
+    }
+
+    .lst-kix_vtvzjcmeakoy-8>li:before {
+      content: "\0025a0  "
+    }
+
+    .lst-kix_7agsv1rzrh3a-5>li:before {
+      content: "\0025a0  "
+    }
+
+    ul.lst-kix_7agsv1rzrh3a-2 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_7agsv1rzrh3a-3 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_7agsv1rzrh3a-0 {
+      list-style-type: none
+    }
+
+    .lst-kix_7agsv1rzrh3a-0>li:before {
+      content: "\0025cf  "
+    }
+
+    ul.lst-kix_7agsv1rzrh3a-1 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_ppj56ij3mx6b-4 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_ppj56ij3mx6b-3 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_w48wjtmvgooo-8 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_ppj56ij3mx6b-6 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_w48wjtmvgooo-7 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_ppj56ij3mx6b-5 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_w48wjtmvgooo-6 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_ppj56ij3mx6b-8 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_w48wjtmvgooo-5 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_ppj56ij3mx6b-7 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_w48wjtmvgooo-4 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_w48wjtmvgooo-3 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_w48wjtmvgooo-2 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_w48wjtmvgooo-1 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_w48wjtmvgooo-0 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_7agsv1rzrh3a-8 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_7agsv1rzrh3a-6 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_7agsv1rzrh3a-7 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_7agsv1rzrh3a-4 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_7agsv1rzrh3a-5 {
+      list-style-type: none
+    }
+
+    .lst-kix_ppj56ij3mx6b-5>li:before {
+      content: "\0025a0  "
+    }
+
+    .lst-kix_ppj56ij3mx6b-4>li:before {
+      content: "\0025cb  "
+    }
+
+    .lst-kix_ppj56ij3mx6b-6>li:before {
+      content: "\0025cf  "
+    }
+
+    .lst-kix_ppj56ij3mx6b-1>li:before {
+      content: "\0025cb  "
+    }
+
+    .lst-kix_ppj56ij3mx6b-0>li:before {
+      content: "\0025cf  "
+    }
+
+    .lst-kix_ppj56ij3mx6b-8>li:before {
+      content: "\0025a0  "
+    }
+
+    .lst-kix_ppj56ij3mx6b-7>li:before {
+      content: "\0025cb  "
+    }
+
+    .lst-kix_w48wjtmvgooo-2>li:before {
+      content: "\0025a0  "
+    }
+
+    .lst-kix_w48wjtmvgooo-0>li:before {
+      content: "\0025cf  "
+    }
+
+    .lst-kix_w48wjtmvgooo-4>li:before {
+      content: "\0025cb  "
+    }
+
+    .lst-kix_w48wjtmvgooo-3>li:before {
+      content: "\0025cf  "
+    }
+
+    .lst-kix_ppj56ij3mx6b-2>li:before {
+      content: "\0025a0  "
+    }
+
+    .lst-kix_ppj56ij3mx6b-3>li:before {
+      content: "\0025cf  "
+    }
+
+    .lst-kix_w48wjtmvgooo-1>li:before {
+      content: "\0025cb  "
+    }
+
+    .lst-kix_yn4oegv9ur96-6>li:before {
+      content: "\0025cf  "
+    }
+
+    ul.lst-kix_vtvzjcmeakoy-7 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_vtvzjcmeakoy-6 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_vtvzjcmeakoy-8 {
+      list-style-type: none
+    }
+
+    .lst-kix_w48wjtmvgooo-8>li:before {
+      content: "\0025a0  "
+    }
+
+    ul.lst-kix_vtvzjcmeakoy-3 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_vtvzjcmeakoy-2 {
+      list-style-type: none
+    }
+
+    .lst-kix_w48wjtmvgooo-7>li:before {
+      content: "\0025cb  "
+    }
+
+    .lst-kix_yn4oegv9ur96-5>li:before {
+      content: "\0025a0  "
+    }
+
+    ul.lst-kix_vtvzjcmeakoy-5 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_vtvzjcmeakoy-4 {
+      list-style-type: none
+    }
+
+    .lst-kix_w48wjtmvgooo-6>li:before {
+      content: "\0025cf  "
+    }
+
+    ul.lst-kix_vtvzjcmeakoy-1 {
+      list-style-type: none
+    }
+
+    ul.lst-kix_vtvzjcmeakoy-0 {
+      list-style-type: none
+    }
+
+    .lst-kix_yn4oegv9ur96-8>li:before {
+      content: "\0025a0  "
+    }
+
+    .lst-kix_w48wjtmvgooo-5>li:before {
+      content: "\0025a0  "
+    }
+
+    .lst-kix_yn4oegv9ur96-7>li:before {
+      content: "\0025cb  "
+    }
+
+    ol {
+      margin: 0;
+      padding: 0
+    }
+
+    table td,
+    table th {
+      padding: 0
+    }
+
+    .c7 {
+      margin-left: 72pt;
+      padding-top: 0pt;
+      padding-left: 0pt;
+      padding-bottom: 10pt;
+      line-height: 1.0999999999999999;
+      orphans: 2;
+      widows: 2;
+      text-align: left;
+      margin-right: 4.8pt
+    }
+
+    .c18 {
+      padding-top: 0pt;
+      padding-bottom: 10pt;
+      line-height: 1.0999999999999999;
+      orphans: 2;
+      widows: 2;
+      text-align: left;
+      margin-right: 4.8pt;
+      height: 10pt
+    }
+
+    .c17 {
+      margin-left: 22.5pt;
+      padding-top: 0pt;
+      padding-bottom: 10pt;
+      line-height: 1.0999999999999999;
+      orphans: 2;
+      widows: 2;
+      text-align: left;
+      margin-right: 0.8pt
+    }
+
+    .c3 {
+      margin-left: 22.5pt;
+      padding-top: 0pt;
+      padding-bottom: 0pt;
+      line-height: 1.0999999999999999;
+      orphans: 2;
+      widows: 2;
+      text-align: left;
+      margin-right: 4.8pt
+    }
+
+    .c5 {
+      margin-left: 22.5pt;
+      padding-top: 0pt;
+      padding-bottom: 10pt;
+      line-height: 1.0999999999999999;
+      orphans: 2;
+      widows: 2;
+      text-align: left;
+      margin-right: 27.3pt
+    }
+
+    .c9 {
+      margin-left: 22.5pt;
+      padding-top: 0pt;
+      padding-bottom: 10pt;
+      line-height: 1.0999999999999999;
+      orphans: 2;
+      widows: 2;
+      text-align: left;
+      margin-right: 4.8pt
+    }
+
+    .c0 {
+      color: #000000;
+      font-weight: 400;
+      text-decoration: none;
+      vertical-align: baseline;
+      font-size: 10pt;
+      font-family: "Lusitana";
+      font-style: normal
+    }
+
+    .c4 {
+      margin-left: 36pt;
+      padding-top: 10pt;
+      padding-bottom: 3pt;
+      line-height: 1.0999999999999999;
+      page-break-after: avoid;
+      text-align: left;
+      margin-right: 0.8pt
+    }
+
+    .c16 {
+      color: #000000;
+      font-weight: 700;
+      text-decoration: none;
+      vertical-align: baseline;
+      font-size: 11pt;
+      font-family: "Lusitana";
+      font-style: normal
+    }
+
+    .c1 {
+      color: #000000;
+      font-weight: 400;
+      text-decoration: none;
+      vertical-align: baseline;
+      font-size: 11pt;
+      font-family: "Lusitana";
+      font-style: italic
+    }
+
+    .c23 {
+      padding-top: 0pt;
+      padding-bottom: 10pt;
+      line-height: 1.0999999999999999;
+      orphans: 2;
+      widows: 2;
+      text-align: left;
+      margin-right: 20.2pt
+    }
+
+    .c2 {
+      color: #000000;
+      font-weight: 400;
+      text-decoration: none;
+      vertical-align: baseline;
+      font-size: 10pt;
+      font-family: "Lusitana";
+      font-style: italic
+    }
+
+    .c20 {
+      color: #000000;
+      font-weight: 700;
+      text-decoration: none;
+      vertical-align: baseline;
+      font-size: 20pt;
+      font-family: "Bebas Neue";
+      font-style: normal
+    }
+
+    .c12 {
+      padding-top: 24pt;
+      padding-bottom: 0pt;
+      line-height: 1.0999999999999999;
+      page-break-after: avoid;
+      text-align: left;
+      margin-right: 0.8pt
+    }
+
+    .c6 {
+      padding-top: 24pt;
+      padding-bottom: 0pt;
+      line-height: 1.0999999999999999;
+      page-break-after: avoid;
+      text-align: left;
+      margin-right: 4.8pt
+    }
+
+    .c15 {
+      padding-top: 24pt;
+      padding-bottom: 0pt;
+      line-height: 1.15;
+      page-break-after: avoid;
+      text-align: right
+    }
+
+    .c14 {
+      background-color: #ffffff;
+      max-width: 468pt;
+      padding: 90pt 72pt 90pt 72pt
+    }
+
+    .c13 {
+      padding: 0;
+      margin: 0
+    }
+
+    .c19 {
+      font-family: "Oswald"
+    }
+
+    .c22 {
+      margin-left: 22.5pt
+    }
+
+    .c11 {
+      vertical-align: super;
+      font-size: 8
+    }
+
+    .c21 {
+      font-weight: 700
+    }
+
+    .c8 {
+      font-style: italic
+    }
+
+    .c10 {
+      font-weight: 400
+    }
+
+    .title {
+      padding-top: 24pt;
+      color: #000000;
+      font-weight: 700;
+      font-size: 36pt;
+      padding-bottom: 6pt;
+      font-family: "Lusitana";
+      line-height: 1.0999999999999999;
+      page-break-after: avoid;
+      orphans: 2;
+      widows: 2;
+      text-align: left
+    }
+
+    .subtitle {
+      padding-top: 0pt;
+      color: #5b9bd5;
+      font-size: 12pt;
+      padding-bottom: 10pt;
+      font-family: "Calibri";
+      line-height: 1.0999999999999999;
+      font-style: italic;
+      orphans: 2;
+      widows: 2;
+      text-align: left
+    }
+
+    li {
+      color: #000000;
+      font-size: 10pt;
+      font-family: "Lusitana"
+    }
+
+    p {
+      margin: 0;
+      color: #000000;
+      font-size: 10pt;
+      font-family: "Lusitana"
+    }
+
+    h1 {
+      padding-top: 0pt;
+      color: #000000;
+      font-weight: 700;
+      font-size: 20pt;
+      padding-bottom: 0pt;
+      font-family: "Bebas Neue";
+      line-height: 1.0999999999999999;
+      page-break-after: avoid;
+      orphans: 2;
+      widows: 2;
+      text-align: left
+    }
+
+    h2 {
+      padding-top: 0pt;
+      color: #000000;
+      font-size: 10pt;
+      padding-bottom: 0pt;
+      font-family: "Lusitana";
+      line-height: 1.1;
+      orphans: 2;
+      widows: 2;
+      text-align: left
+    }
+
+    h3 {
+      padding-top: 0pt;
+      color: #000000;
+      font-weight: 700;
+      font-size: 10pt;
+      padding-bottom: 3pt;
+      font-family: "Lusitana";
+      line-height: 1.1;
+      orphans: 2;
+      widows: 2;
+      text-align: left
+    }
+
+    h4 {
+      padding-top: 0pt;
+      color: #000000;
+      font-weight: 700;
+      font-size: 12pt;
+      padding-bottom: 2pt;
+      font-family: "Lusitana";
+      line-height: 1.1;
+      page-break-after: avoid;
+      orphans: 2;
+      widows: 2;
+      text-align: left
+    }
+
+    h5 {
+      padding-top: 11pt;
+      color: #000000;
+      font-weight: 700;
+      font-size: 11pt;
+      padding-bottom: 2pt;
+      font-family: "Lusitana";
+      line-height: 1.0999999999999999;
+      page-break-after: avoid;
+      orphans: 2;
+      widows: 2;
+      text-align: left
+    }
+
+    h6 {
+      padding-top: 10pt;
+      color: #000000;
+      font-weight: 700;
+      font-size: 10pt;
+      padding-bottom: 2pt;
+      font-family: "Lusitana";
+      line-height: 1.0999999999999999;
+      page-break-after: avoid;
+      orphans: 2;
+      widows: 2;
+      text-align: left
+    }
+
+  </style>
+</head>
+
+<body class="c14">
+  <div>
+    <h1 class="c15"><span class="c10 c19">MICHAEL DARFLER</span></h1>
+  </div>
+  <h2 class="c6"><span>CONTACT INFORMATION</span></h2>
+    <hr>
+  <p class="c3"><span class="c0">Michael Darfler&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;website: www.michaeldarfler.com</span></p>
+  <p class="c3"><span>1611 S. 16</span><span><super>TH</super></span><span>&nbsp;Street &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email:
+      mdarfler@gmail.</span><span>com</span></p>
+  <p class="c3"><span class="c0">Philadelphia, PA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;phone: 607.227.8530</span></p>
+  <h2 class="c12"><span class="c0">EDUCATION</span></h2>
+  <hr>
+  <h3 class="c4" id="h.cnegbvtp49zn"><span>BS -Bioengineering </span><span class="c1">Binghamton University | Binghamton, NY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;09/03 - 06/07</span></h3>
+  <h2 class="c12"><span>EMPLOYMENT</span></h2>
+    <hr>
+
+  <h3 class="c4"><span>Makerspace Director, CompSci Faculty</span><span class="c10">&nbsp; </span><span class="c1">Friends&rsquo; Central School | Wynnewood, PA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;06/16 - present</span></h3>
+  <p class="c22 c23"><span>Direct the operation of </span><span>a makerspace</span><span>&nbsp;for 500 students grades 6 - 12. &nbsp;Work with teachers to develop new curricular opportunities </span><span>for</span><span>&nbsp;their students. Teach
+      8th grade computer science and two </span><span>upper school</span><span class="c0">&nbsp;computer science classes. Collaborate with faculty across divisions to integrate computational thinking and programming into curricula. Directed the
+      opening of new middle school makerspace. </span></p>
+  <h3 class="c4" id="h.r0ivk6koyayw"><span>Program Director </span><span class="c1">Abington Art Center | Jenkintown, PA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;01/16 &ndash; 05/16</span></h3>
+  <p class="c5"><span>Planned, developed, and implemented a new collaborative makerspace and innovation lab, in partnership with Penn State Abington with support from the Montgomery County Economic Development Corporation, that combines traditional
+      art modalities with high-tech digital fabrication to inspire creativity and improve access to entrepreneurial opportunities. </span></p>
+  <h3 class="c4" id="h.69xmmdx525ml"><span>Program Manager </span><span class="c1">&nbsp;Department of Making + Doing | Philadelphia, PA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;09/13 &ndash; 12/15</span></h3>
+  <p class="c9"><span class="c0">Managed a 4,000 sq ft makerspace focused on empowering youths and communities through hands-on learning. Developed, implemented, and managed wide-ranging programs for youth, adults, and families; planned and
+      coordinated marketing and promotion strategies; cultivated and maintained community partnerships and volunteers; designed and implemented operational, safety, and preventative maintenance protocols for traditional and digital fabrication
+      equipment; prepared budget and managed finances for space and programming; created and reported relevant metrics on space and program use. </span></p>
+  <h3 class="c4"><span>Custom Fabricator &nbsp;</span><span class="c1">Ithaca, NY; New York, NY; Philadelphia, PA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;04/07 &ndash; 09/13</span></h3>
+  <p class="c9"><span class="c0">Specialized in custom woodworking, furniture design, hardscapes, landscapes, fabrication and installation for individuals, contractors, and designers.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+  <h3 class="c4" id="h.fix210ulxpmb"><span>Project Manager &nbsp;</span><span class="c1">Archway Builders | Philadelphia, PA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10/12 &ndash; 09/13</span></h3>
+  <p class="c9"><span class="c0">Responsible for the successful on-time completion of construction projects; coordinating subcontractors; supervising workers; and managing relationship with architects, designers and clients.</span></p>
+  <h3 class="c4"><span>Project Manager &nbsp;</span><span class="c1">Paul Hansen Design &amp; Construction | Danby, NY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;06/10 &ndash; 06/12</span></h3>
+  <p class="c9"><span class="c0">Maintained client relationships and a team of workers in renovation and new construction projects. Extensive on-site problem solving for complex projects.</span></p>
+  <h3 class="c4"><span>Surveyor &amp; CAD Drafter </span><span class="c1">Claudia Brenner, Architect | Ithaca, NY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12/09 &ndash; 05/10</span></h3>
+  <p class="c9"><span class="c0">Produced detailed and accurate construction documents, measured drawings, and 3D models from design sketches and existing buildings.</span></p>
+  <h2 class="c6" id="h.l0t16yuay2yd"><span>RESEARCH</span></h2>
+    <hr>
+
+  <h3 class="c4" id="h.ww80xs8w48vo"><span>Research </span><span>Scholar</span><span>&nbsp;</span><span class="c8 c10">College of Computing and Informatics, Drexel University | Phila, PA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;
+      &nbsp;6 /18 &ndash; 8/18</span></h3>
+  <p class="c9"><span>Conducted research through the NSF-funded </span><span class="c8">Research Experience for Teachers</span><span class="c8">:</span><span class="c8">&nbsp;Site for Machine Learning to Enhance Human-Centered Computing.</span><span>&nbsp;Worked
+      with an interdisciplinary team of engineers, designers,, and medical doctors aimed at developing statistical and numerical tools for improving signal separation from woven RFID antennas. Developed tests for assessing and reporting efficacy.
+      Attended and presented at weekly lab meetings with the Principal Investigator. &nbsp;</span><span>Attended and presented biweekly at lab meetings.</span></p>
+  <h3 class="c4" id="h.5lcpzt47a7f9"><span>Technical Advisor </span><span class="c8 c10">Arcadia University | Glenside, PA, &nbsp;Siracusa, Italy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2014</span></h3>
+  <p class="c9"><span>Provided technical support for 3D printing fabrication and documentation. Co-authored book chapter: </span><span>Matlock, S., </span><span class="c21">Darfler, M.</span><span>, Tanasi, D. Forensic facial reconstruction of a
+      woman from Copper Age Sicily: the case study of Scintilia. </span><span class="c8">STORIE SEPOLTE: Riti, culti e vita quotidiana all&rsquo;alba del IV millennio a.</span><span class="c8">C</span><span class="c8">. </span><span class="c0">2014</span></p>
+  <h3 class="c4" id="h.8fkj4wiadl4o"><span>Research Technician </span><span class="c1">Binghamton University | Binghamton, NY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;05/05 &ndash; 01/06</span></h3>
+  <p class="c9"><span class="c0">Assisted with research investigating the use of biomarkers for developing a test for Polycystic Ovarian Syndrome. Created algorithms to analyze large amounts of information to detect patterns and similarities across
+      multiple data sets.</span></p>
+  <h2 class="c6" id="h.uykadd3ypwou"><span>LEADERSHIP AND SERVICE</span>  </h2>
+    <hr>
+
+  <h3 class="c4" id="h.nr7ut9ov8ouj"><span>Leadership Philadelphia</span><span class="c8 c10">&nbsp;</span><span>|</span><span class="c1">&nbsp;Philadelphia, PA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;07/18 - present</span></h3>
+  <p class="c9"><span>Nominated to the </span><span class="c8">Philadelphia Connectors and Keepers</span><span class="c0">&nbsp;class of 2019 based on previous leadership experience and civic engagement.</span></p>
+  <h3 class="c4" id="h.a4kheppcp4je"><span>Masterman School | </span><span class="c1">Philadelphia, PA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11/17 &ndash; present</span></h3>
+  <p class="c9"><span class="c0">Provide resources, recommendations, and feedback for the development of a new 9 -12 makerspace.</span></p>
+  <h3 class="c4" id="h.60u2mqwxyhvp"><span>Anderson Elementary School | </span><span class="c8 c10">Philadelphia, PA</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="c1">10/17 - present</span></h3>
+  <p class="c9"><span>Designed and facilitate an experiential service learning program to connect high school students from FCS with elementary school students from Anderson on visioning and prototyping a school makerspace.</span></p>
+  <h3 class="c4" id="h.fwf9ygine20"><span>Science Leadership Academy | </span><span class="c1">Philadelphia, PA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;09/16 &ndash; present</span></h3>
+  <p class="c9"><span>Assist with </span><span>developing a quality Career and Technical Education program for students </span><span>and creating a stronger link with business, industry, and postsecondary institutions to prepare future
+      professionals. </span></p>
+  <h3 class="c4" id="h.lla9i7k9ytim"><span>Public Workshop</span><span class="c10">&nbsp;</span><span>|</span><span class="c1">&nbsp;Philadelphia, PA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;08/12 &ndash; 04/14</span></h3>
+  <p class="c17"><span class="c0">Managed project logistics, coordinated with collaborators, and helped lead volunteers, community members and youth in the design and building of projects that improve public spaces in diverse neighborhoods
+      throughout Philadelphia. Maintained a strong and vibrant social media presence. </span></p>
+  <h3 class="c4" id="h.a7bnw1g4j90n"><span>Engineers Without Borders | </span><span class="c1">Binghamton University &amp; Brown University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10/06 &ndash; 05/07</span></h3>
+  <p class="c9"><span class="c0">As part of an intercollegiate exploratory team, traveled to Iquitos, Peru to investigate the feasibility of creating a 6000 sq. ft. medical facility to help provide access to 75,000 underserved and disenfranchised
+      individuals. Worked with local medical providers, engineers, and municipal and private utility companies to collect data for the creation of a formal feasibility study.</span></p>
+  <h2 class="c6" id="h.3hpoa47gffw7"><span>TEACHING AND CURRICULUM DEVELOPMENT</span>  </h2>
+    <hr>
+
+  <h3 class="c4" id="h.xj8skxia1vkr"><span>Friends Central School |</span><span class="c10">&nbsp;</span><span class="c8 c10">Philadelphia, PA</span><span class="c1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></h3>
+  <ul class="c13 lst-kix_ppj56ij3mx6b-0 start">
+    <li class="c7"><span>Instructor | </span><span class="c2">Introduction to Computer Science &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></li>
+    <li class="c7"><span>Instructor | CS2: </span><span class="c8">Simulating the Natural World &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></li>
+    <li class="c7"><span>Instructor | </span><span class="c2">Middle School Computer Science </span></li>
+    <li class="c7"><span>Guest Instructor | </span><span class="c2">Introduction to 3D Modeling for Architectural Drawing</span></li>
+    <li class="c7"><span class="c0">Member | Math Faculty</span></li>
+    <li class="c7"><span class="c0">Member | Teaching and Learning Committee&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></li>
+    <li class="c7"><span>Independent Study Advisor | </span><span class="c8">Game Design </span><span class="c0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></li>
+  </ul>
+  <ul class="c13 lst-kix_vtvzjcmeakoy-0 start">
+    <li class="c7"><span class="c0">Advisor | Coding Club, Game Club, Digital Editing Club, Maker Club&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></li>
+  </ul>
+  <h3 class="c4" id="h.rnzls867a197"><span>University of the Arts</span><span class="c8 c10">&nbsp;</span><span>|</span><span class="c1">&nbsp;Philadelphia, PA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></h3>
+  <ul class="c13 lst-kix_41d57ev9ncr0-0 start">
+    <li class="c7"><span>Course </span><span>Creator | </span><span class="c8">Classroom as MakerSpace</span></li>
+  </ul>
+  <h3 class="c4" id="h.huju29v49ity"><span>Abington Art Center | </span><span class="c1">Jenkintown, PA</span></h3>
+  <ul class="c13 lst-kix_w48wjtmvgooo-0 start">
+    <li class="c7"><span>Instructor | </span><span class="c2">Safety and Training</span></li>
+    <li class="c7"><span>Instructor | </span><span class="c2">Introduction to Digital Fabrication</span></li>
+  </ul>
+  <h3 class="c4" id="h.wan0fo5i6xzh"><span>Department of Making + Doing | </span><span class="c1">Philadelphia, PA</span></h3>
+  <ul class="c13 lst-kix_7agsv1rzrh3a-0 start">
+    <li class="c7"><span>Instructor | </span><span class="c2">Introduction to Woodworking</span></li>
+    <li class="c7"><span>Instructor | </span><span class="c2">Advanced Woodworking</span></li>
+    <li class="c7"><span>Instructor | </span><span class="c2">Introduction to Laser Cutting</span></li>
+    <li class="c7"><span>Instructor | </span><span class="c2">Safety and Training</span></li>
+  </ul>
+  <h3 class="c4" id="h.bfac4weuf8el"><span class="c16">Binghamton University</span></h3>
+  <ul class="c13 lst-kix_2yqsx517wgmh-0 start">
+    <li class="c7"><span>Teaching Assistant | </span><span class="c2">BE 202 - Biological Networks</span></li>
+  </ul>
+  <h2 class="c12" id="h.d212axlamhh0"><span>TECHNOLOGY</span><span>, CODING, AND SKILLS</span>  </h2>
+    <hr>
+
+  <p class="c9"><span>3D and 2D design including Adobe CC, Rhino 3D, Sketchup, and AutoCAD</span><span class="c0">, email marketing, Wordpress, Filemaker.</span></p>
+  <p class="c17"><span class="c0">Java, JavaScript, MatLab, HTML, CSS, Arduino C, Mathematica.</span></p>
+  <p class="c9"><span class="c0">Traditional fabrication including woodworking, masonry, timber framing, metalworking, and sewing; digital fabrication including CNC routers, 3D printing, and laser cutting; electronics and microcontrollers.</span></p>
+  <h2 class="c12" id="h.x2guueab8n2y"><span>GRANTS</span>  </h2>
+    <hr>
+
+  <h3 class="c4" id="h.8l1k5ek02r4"><span class="c21">PlusUs | &nbsp;</span><span class="c8 c10">Design for Learning</span><span>&nbsp;</span><span class="c8 c10">Grant</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="c1">2016</span></h3>
+  <p class="c9"><span class="c0">Principal - Engage school community in leveraging underutilized spaces into micro makerspaces on campus. $8,000+</span></p>
+  <h3 class="c4" id="h.v0u1kjs679pu"><span class="c21">ArtPlace America |</span><span class="c10">&nbsp;</span><span class="c1">Inventing the Future&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2013</span></h3>
+  <p class="c9"><span class="c0">Contributor - Engage community partners in activating a business corridor in Philadelphia through hands-on making activities, data collection, and placemaking activities. &nbsp;$150,000</span></p>
+  <h3 class="c4" id="h.8bvx19dbn0i"><span class="c21">Knight Foundation | </span><span class="c1">Knight Arts Challenge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2013</span></h3>
+  <p class="c9"><span class="c0">Contributor - Develop a partnership of four science, technology, and community organizations to activate 4,000 sq of ground floor retail in Philadelphia as a community-minded makerspace. &nbsp;$100,000</span></p>
+  <p class="c18 c22"><span class="c0"></span></p>
+</body>
+
+</html>
