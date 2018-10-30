@@ -1,7 +1,7 @@
 ---
 title: Curriculum Vitae
 ---
-[Download]({{site.baseurl}}/images/michael-darfler-cv.pdf)
+[Download](https://www.michaeldarfler.com/images/michael-darfler-cv.pdf)
 <html>
 
 <head>
@@ -924,9 +924,9 @@ title: Curriculum Vitae
   </div>
   <h2 class="c6"><span>CONTACT INFORMATION</span></h2>
     <hr>
-  <p class="c3"><span class="c0">Michael Darfler&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;website: www.michaeldarfler.com</span></p>
-  <p class="c3"><span>1611 S. 16</span><span><super>TH</super></span><span>&nbsp;Street &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email:
-      mdarfler@gmail.</span><span>com</span></p>
+  <p class="c3"><span class="c0">Michael Darfler&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;website:</span><a href="www.michaeldarfler.com">&nbsp;&nbsp;www.michaeldarfler.com</a></p><br>
+  <p class="c3"><span>1611 S. 16</span><span><super>TH</super></span><span>&nbsp;Street &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email:</span>
+      <a href="mailto:mdarfler@gmail">&nbsp;&nbsp;mdarfler@gmail.com</a></p><br>
   <p class="c3"><span class="c0">Philadelphia, PA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;phone: 607.227.8530</span></p>
   <h2 class="c12"><span class="c0">EDUCATION</span></h2>
   <hr>
@@ -956,7 +956,7 @@ title: Curriculum Vitae
   <h2 class="c6" id="h.l0t16yuay2yd"><span>RESEARCH</span></h2>
     <hr>
 
-  <h3 class="c4" id="h.ww80xs8w48vo"><span>Research </span><span>Scholar</span><span>&nbsp;</span><span class="c8 c10">College of Computing and Informatics, Drexel University | Phila, PA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;
+  <h3 class="c4" id="h.ww80xs8w48vo"><a href="https://drive.google.com/open?id=1jQ8N7SGm7cTzu1lGtMOUm1EeTC24bK3F"><strong> Research Scholar</strong></a><span>&nbsp;</span><span class="c8 c10">College of Computing and Informatics, Drexel University | Phila, PA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;
       &nbsp;6 /18 &ndash; 8/18</span></h3>
   <p class="c9"><span>Conducted research through the NSF-funded </span><span class="c8">Research Experience for Teachers</span><span class="c8">:</span><span class="c8">&nbsp;Site for Machine Learning to Enhance Human-Centered Computing.</span><span>&nbsp;Worked
       with an interdisciplinary team of engineers, designers,, and medical doctors aimed at developing statistical and numerical tools for improving signal separation from woven RFID antennas. Developed tests for assessing and reporting efficacy.
