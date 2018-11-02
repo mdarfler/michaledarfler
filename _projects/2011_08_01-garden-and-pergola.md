@@ -5,7 +5,7 @@ date: 2011-08-01 00:00:00
 location: 'Lansing, NY'
 featured_image: '/images/garden-arbor/p1050422.jpg'
 tags: [fabrication, design, timber frame, hardscape]
-published: false
+published: true
 ---
 #### **Role:** Design and Fabrication
 

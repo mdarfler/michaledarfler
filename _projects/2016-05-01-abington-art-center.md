@@ -5,7 +5,7 @@ date: 2016-05-01 00:00:00
 location: 'Jenkintown, PA'
 featured_image: '/images/aac/DSC00447.jpg'
 tags: [fabrication, design, furniture]
-published: false
+published: true
 ---
 Some text goes here.
 

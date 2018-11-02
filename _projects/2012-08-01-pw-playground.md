@@ -8,7 +8,7 @@ tags: [play, community, popup, youth]
 partners: Pennsylvania Horticultural Society, Public Workshop, Design Philadelphia
 principal: Public Workshop
 role: design and fabrication
-published: false
+published: true
 ---
 **Principal** - {{ page.principal }}<br>
 **Role** - {{ page.role }}

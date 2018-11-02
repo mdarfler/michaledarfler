@@ -5,7 +5,7 @@ date: 2009-05-01 00:00:00
 location: 'Rockville, MD'
 featured_image: '/images/nouveau-builtin/493642760_pvqtu-o1.jpg'
 tags: [fabrication, design, furniture]
-published: false
+published: true
 ---
 #### **Role:** Design, Fabrication and Installation
 
