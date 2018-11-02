@@ -22,7 +22,7 @@ menu_settings:
 
 grid_settings:
   overlay_opacity: 0.8
-  grid_spacing: 20
+  grid_spacing: 10
 
 contact_settings:
   form_action: 'https://formspree.io/mdarfler@gmail.com'
@@ -78,16 +78,16 @@ font_settings:
   regular_weight: 300
   bold_weight: 500
   site_title:
-    small_size: 25
-    medium_size: 35
-    large_size: 45
+    small_size: 20
+    medium_size: 30
+    large_size: 40
     weight: 500
     letter_spacing: -0.02
   site_tagline:
-    small_size: 16
-    medium_size: 18
-    large_size: 20
-    weight: 300
+    small_size: 12
+    medium_size: 16
+    large_size: 18
+    weight: 250
     letter_spacing: 0
     line_height: 1.5
   menu:
@@ -109,9 +109,9 @@ font_settings:
     weight: 300
     letter_spacing: 0
   h1:
-    small_size: 25
-    medium_size: 35
-    large_size: 45
+    small_size: 20
+    medium_size: 30
+    large_size: 40
     weight: 500
     letter_spacing: -0.02
     line_height: 1.2
@@ -151,9 +151,9 @@ font_settings:
     letter_spacing: 0
     line_height: 1.6
   p:
-    small_size: 16
-    medium_size: 18
-    large_size: 20
+    small_size: 12
+    medium_size: 16
+    large_size: 18
     weight: 300
     letter_spacing: 0
     line_height: 1.6
@@ -169,7 +169,7 @@ font_settings:
     letter_spacing: 0
 
 advanced_settings:
-  analytics_code: ""
+  analytics_code: "UA-128574792-1"
   custom_styles: ""
   header_js: ""
   footer_js: ""
