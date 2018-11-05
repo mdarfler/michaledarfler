@@ -34,7 +34,7 @@ By starting with open ended questions we were able to start a conversation with 
 <div class="gallery" data-columns="1">
 {% for img in site.static_files%}
   {% if img.path contains '/images/makernook/seeds' %}
-    <img src="{{ img.path }}"/ style:"width: 100%; height: 400px">
+    <img src="{{ img.path }}"/>
   {% endif %}
 {% endfor %}
 </div>
