@@ -5,10 +5,13 @@ date: 2009-05-01 00:00:00
 location: 'Rockville, MD'
 featured_image: '/images/nouveau-builtin/493642760_pvqtu-o1.jpg'
 tags: [fabrication, design, furniture]
+principal: "Michael Darfler"
+role: "Design and fabrication"
 published: true
 ---
-#### **Role:** Design, Fabrication and Installation
 
+**Principal | {{page.principal}} <br>
+Role | {{page.role}}**<br>
 Designed as the centerpiece of the formal seating area this bookshelf is constructed of mahogany veneered plywood with solid wood frames and custom door fronts. Finished with a custom matched stain and spray lacquer this built-in furniture provides an elegant and striking display for the extensive collection of leather-bound books and family heirlooms.
 
 Dimensions: 12' x 24" x 8' (l x w x h)

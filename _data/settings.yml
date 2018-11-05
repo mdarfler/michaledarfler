@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Michael Darfler
-  site_tagline: Personal website of Michael Darfler (C) 2018
+  site_tagline: Personal website of Michael Darfler
   favicon_image: /images/favicon-02.png
 
 header_settings:
@@ -72,11 +72,11 @@ color_settings:
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Montserrat:700|Oswald:200" rel="stylesheet">'
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=Montserrat:700|Oswald:200,400" rel="stylesheet">'
   title_font: '"Montserrat", sans-serif'
   body_font: '"Oswald", sans-serif'
   regular_weight: 300
-  bold_weight: 500
+  bold_weight: 400
   site_title:
     small_size: 20
     medium_size: 30
@@ -151,10 +151,10 @@ font_settings:
     letter_spacing: 0
     line_height: 1.6
   p:
-    small_size: 12
-    medium_size: 16
-    large_size: 18
-    weight: 300
+    small_size: 14
+    medium_size: 18
+    large_size: 20
+    weight: 200
     letter_spacing: 0
     line_height: 1.6
   blockquote:
