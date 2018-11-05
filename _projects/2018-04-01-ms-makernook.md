@@ -45,7 +45,7 @@ By starting with open ended questions we were able to start a conversation with 
 
 With plans finalized it was time to get dirty. A team of master builders from FCS's physical plant team were instrumental in the creation of the MakerNook. Throughout the process their attention to detail and dedication made all the difference. Students from the middle school community also had a chance to get involved with demolition and construction.
 
-<div class="gallery" data-columns="1">
+<div class="gallery" data-columns="3">
 {% for img in site.static_files%}
   {% if img.path contains '/images/makernook/transformation' %}
     <img src="{{ img.path }}"/>

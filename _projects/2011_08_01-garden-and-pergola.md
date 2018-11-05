@@ -9,8 +9,9 @@ published: true
 principal: "Michael Darfler"
 role: "Design and fabrication "
 ---
-**Principal | {{page.principal}} <br>
-Role | {{page.role}}**<br>
+<strong> Principal | {{page.principal}} <br>
+Role | {{ page.role }} </strong>
+
 Situated on 20 acres of fields and woods the work has been focused on improving the grounds surrounding this two-story upstate farmhouse vernacular home.
 
 ### PHASE 1
