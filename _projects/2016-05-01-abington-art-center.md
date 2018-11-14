@@ -7,8 +7,8 @@ featured_image: '/images/aac/DSC00447.jpg'
 tags: [fabrication, design, furniture]
 published: false
 ---
-**Principal | {{page.principal}} <br>
-Role | {{page.role}}**<br>
+**Principal - {{page.principal}} <br>
+Role - {{page.role}}**<br>
 <div class="gallery" data-columns="3">
 {% for img in site.static_files%}
   {% if img.path contains '/images/aac' %}
