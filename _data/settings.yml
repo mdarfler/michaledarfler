@@ -1,7 +1,7 @@
 basic_settings:
   site_title: Michael Darfler
   site_tagline: Personal website of Michael Darfler
-  favicon_image: /images/favicon-02.png
+  favicon_image: /images/favicon.png
 
 header_settings:
   logo_image:

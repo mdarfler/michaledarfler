@@ -3,7 +3,7 @@ title: 'FABington'
 subtitle: 'A MakerSpace at the intersection of art, technology, and entrepreneurship.'
 date: 2016-05-01 00:00:00
 location: 'Jenkintown, PA'
-featured_image: '/images/aac/DSC00447.jpg'
+featured_image: '/images/aac/gallery/DSC00447.jpg'
 tags: [fabrication, design, furniture]
 principal: 'Abington Art Center and Penn State Abington'
 role: 'Program Manager, Design, Marketing, and Instruction'
