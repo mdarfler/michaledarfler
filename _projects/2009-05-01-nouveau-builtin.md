@@ -11,7 +11,7 @@ published: true
 ---
 
 **Principal | {{page.principal}} <br>
-Role | {{page.role}}**<br>
+Role | {{page.role}}**<br><br>
 Designed as the centerpiece of the formal seating area this bookshelf is constructed of mahogany veneered plywood with solid wood frames and custom door fronts. Finished with a custom matched stain and spray lacquer this built-in furniture provides an elegant and striking display for the extensive collection of leather-bound books and family heirlooms.
 
 Dimensions: 12' x 24" x 8' (l x w x h)

@@ -10,7 +10,7 @@ principal: "Phil Holcombe and Michael Darfler"
 role: "Design and research"
 ---
 **Principal | {{page.principal}} <br>
-Role | {{page.role}}**<br>
+Role | {{page.role}}**<br><br>
 As you walk through the halls on the second floor of the Middle School, you may notice a bustle of activity in what was, six months ago, a forgotten storage closet. A room once filled with unused chairs and old reams of paper has been transformed into the newest space for student learning on campus. Friends’ Central School’s brand new MakerNook is a mini-makerspace designed by and for middle school students to provide access to tools, supplies, and space for hands-on learning.
 
 >"Questions set us on quests, which often help us find our better selves and shine our Light" - Garreth Heidt
